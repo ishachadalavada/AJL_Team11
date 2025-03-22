@@ -81,11 +81,11 @@ Install dependencies:
 	`pip install numpy pandas tensorflow scikit-learn pillow`
 
 Run the training script:    
-`python train_test_skin_ipynb`
+`python train_test_skin.ipynb`
 
 ## **Contribution**
 
-| Name | GitHub Handle  | Contribution  |
+| Name | GitHub Username  | Contribution  |
 | :---- | :---- | :---- |
 | Hau Phan | @Hphan777 | Performed data augmentation, preprocess data, train model  |
 | Shan Ji  | @shanji361 | Added SMOTE with CNN to handle unbalanced data, made second Kaggle submission, created dataset visualizations |

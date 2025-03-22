@@ -15,9 +15,13 @@ The dataset contains approximately 4500 images categorized into 21 skin conditio
 * `test.csv`: Metadata for test images without labels (to be predicted).  
 * `sample_submission.csv`: Sample format for submission.
 
-## **![][image1]**
+## Data Visualization
 
-![][image2]
+### Class Distribution
+![Class Distribution](class_distribution.png)
+
+### Skin Condition by Fitzpatrick Scale
+![Skin Condition Fitzpatrick](skin_condition_fitzpatrick.png)
 
 ## **Model Implementation**
 
